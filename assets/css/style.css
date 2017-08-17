@@ -1,0 +1,41 @@
+
+body {
+  background-image: url(../images/background2.jpg);
+  text-align: center;
+  color: white;
+  line-height: 6px;
+}
+
+.container {
+  display: block;
+  background-color: #2F4F4F;
+  margin-top: 50px;
+  height: 900px;
+  padding: 10px;
+  line-height: 8px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin-top: 80px;
+  letter-spacing: 3px;
+}
+
+h2 {
+  font-size: 28px;
+  text-align: center;
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.gameResults {
+  margin-top: 10px;
+}
+
+p {
+  font-size: 22px;
+}
